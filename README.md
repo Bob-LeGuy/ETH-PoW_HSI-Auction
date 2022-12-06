@@ -3,7 +3,7 @@ This is a repository to collaborate on &amp; deploy a simple &amp; secure WFE fo
 
 -Start
 
--bid(limited, expect slow degraded UX due to lack of net infrastructure) 
+-bid (limited, expect slow degraded UX due to lack of net infrastructure) 
 
 -end/claim completed auctions.
 
