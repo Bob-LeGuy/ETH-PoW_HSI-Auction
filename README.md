@@ -1,9 +1,9 @@
 # ETH-PoW_HSI-Auction
-This is a repository to collaborate on & deploy a simple & secure Web FE w/ typical wallet integration for Hedron HSI liquidation auctions in order to:
+This is a repository to collaborate on & deploy a simple & secure Web Frontend w/ typical wallet integration for Hedron HSI liquidation auctions in order to:
 
--Start
+-Open bids on eligible HSIs
 
--bid (limited, expect slow degraded UX due to lack of net infrastructure) 
+-bid (limited, expect slow & degraded UX due to lack of ETHw graph/subgraph database infrastructure) 
 
 -end/claim completed auctions.
 
