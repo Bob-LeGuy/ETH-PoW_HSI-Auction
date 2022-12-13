@@ -1,0 +1,114 @@
+body {
+  background-color: black;
+}
+
+.content div {
+  color: white;
+}
+
+.pill-nav a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+  font-size: 17px;
+  border-radius: 5px;
+  margin-left: 2%;
+}
+
+.pill-nav {
+  position: fixed;
+  width: 80%;
+}
+
+/* Change the color of links on mouse-over */
+.pill-nav a:hover {
+  color: white;
+  border: 2px solid white;
+}
+
+/* Add a color to the active/current link */
+.pill-nav a.active {
+  background-color: dodgerblue;
+  color: white;
+}
+
+
+.btn {
+  border: 2px solid ridge;
+  background-color: rgba(0,0,0,0);
+  color: white;
+  padding: 8px 20px;
+  font-size: 11.5px;
+  cursor: pointer;
+  float: right;
+  margin-right: 2%;
+  margin-top: 0.6%;
+  border-radius: 5px;
+  font-weight: 600;
+}
+
+.info {
+  border-color: #2196F3;
+  color: dodgerblue
+}
+
+.info:hover {
+  background: #2196F3;
+  color: white;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 50%;
+  border: 1px solid whitesmoke;
+  margin-top: 8%;
+}
+
+tr {
+  border-bottom: 1px solid grey;  
+}
+
+tr:hover {
+  background-color: whitesmoke;
+  color: black;
+}
+
+th, td {
+  text-align: right;
+  padding: 8px;
+}
+
+tr td:first-child {
+  text-align: center;
+}
+
+#userView {
+  margin-left: 30%;
+}
+
+#myProgress {
+  position: absolute;
+  width: 40%;
+  background-color: grey;
+  margin-top: 20%;
+  margin-left: 27%;
+}
+
+#myBar {
+  width: 10%;
+  height: 6px;
+  background-color: #2196F3;
+  text-align: center; /* To center it horizontally (if you want) */
+  line-height: 30px; /* To center it vertically */
+  color: white;
+}
+
+#loadlabel {
+  color: grey;
+  position: absolute;
+  margin-top: 23%;
+  margin-left: 41%;
+}
