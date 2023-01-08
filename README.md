@@ -14,3 +14,6 @@ Project tracking URL (If useful): https://github.com/users/Bob-LeGuy/projects/1
 Hedron project Repo: https://github.com/PLSFusion/Hedron
 
 Hedron WP: https://hedron.pro/#/guide
+
+
+If you like this app, you can buy the dev coffe :) (ETH): 0xFa637B89f0bDcBc1C6604965c2A50ce807b9ea34
